@@ -1,0 +1,461 @@
+,Location Number,Location Name,Work Detected,Original Detection Date,Start Date,End Date,Duration
+0,5-ST1,STAIR 1,Cast-In-Place Concrete,2023-09-27,,2023-09-27,
+1,5-ST1,STAIR 1,Gypsum Board,2023-09-27,,2023-09-27,
+2,5-ST1,STAIR 1,Metal Pan Stairs,2023-09-27,,2023-09-27,
+3,5-ST1,STAIR 1,Raceway and Boxes for Electrical Systems,2023-09-27,,2023-09-27,
+4,5-ST1,STAIR 1,Sanitary Waste and Vent Piping,2023-09-27,,2023-09-27,
+5,5-ST2,STAIR 2,Cast-In-Place Concrete,2023-07-25,,2023-07-25,
+6,5-ST2,STAIR 2,Cold-Formed Metal Framing,2023-07-25,,2023-07-25,
+7,5-ST2,STAIR 2,Gypsum Board,2023-07-25,,2023-07-25,
+8,5-ST2,STAIR 2,Metal Pan Stairs,2023-07-25,,2023-07-25,
+9,5-ST2,STAIR 2,Raceway and Boxes for Electrical Systems,2023-10-20,2023-07-25,2023-10-20,87.0
+10,5-ST2,STAIR 2,Steel Decking,2023-10-20,2023-07-25,2023-10-20,87.0
+11,500,FSAE Lobby,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+12,500,FSAE Lobby,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+13,500,FSAE Lobby,Gypsum Board,2023-07-06,,2023-07-06,
+14,500,FSAE Lobby,Raceway and Boxes for Electrical Systems,2023-07-06,,2023-07-06,
+15,500,FSAE Lobby,Thermal Insulation,2023-08-17,2023-07-06,2023-08-17,42.0
+16,501,STAIR 1 VEST.,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+18,501,STAIR 1 VEST.,Fire-Suppression Standpipes,2023-07-06,,2023-07-06,
+17,501,STAIR 1 VEST.,Cold-Formed Metal Framing,2023-07-28,2023-07-06,2023-07-28,22.0
+19,501,STAIR 1 VEST.,Gypsum Board,2023-07-28,2023-07-06,2023-07-28,22.0
+21,501,STAIR 1 VEST.,Sanitary Waste and Vent Piping,2023-07-28,2023-07-06,2023-07-28,22.0
+20,501,STAIR 1 VEST.,Raceway and Boxes for Electrical Systems,2023-08-10,2023-07-28,2023-08-10,13.0
+22,501,STAIR 1 VEST.,Thermal Insulation,2023-08-23,2023-08-10,2023-08-23,13.0
+23,502,STAIR 2 VEST.,Cast-In-Place Concrete,2023-07-19,,2023-07-19,
+26,502,STAIR 2 VEST.,Sanitary Waste and Vent Piping,2023-07-19,,2023-07-19,
+24,502,STAIR 2 VEST.,Cold-Formed Metal Framing,2023-07-25,2023-07-19,2023-07-25,6.0
+25,502,STAIR 2 VEST.,Gypsum Board,2023-08-17,2023-07-25,2023-08-17,23.0
+27,503,JAN,Cast-In-Place Concrete,2023-07-19,,2023-07-19,
+32,503,JAN,Hydronic Piping,2023-07-19,,2023-07-19,
+34,503,JAN,Sanitary Waste and Vent Piping,2023-07-19,,2023-07-19,
+35,503,JAN,Wet-Pipe Sprinkler Systems,2023-07-25,2023-07-19,2023-07-25,6.0
+28,503,JAN,Cold-Formed Metal Framing,2023-08-10,2023-07-25,2023-08-10,16.0
+30,503,JAN,Gypsum Board,2023-08-10,2023-07-25,2023-08-10,16.0
+33,503,JAN,Raceway and Boxes for Electrical Systems,2023-08-10,2023-07-25,2023-08-10,16.0
+29,503,JAN,Domestic Water Piping,2023-09-27,2023-08-10,2023-09-27,48.0
+31,503,JAN,Hollow Metal Doors and Frames,2023-09-27,2023-08-10,2023-09-27,48.0
+36,504,Men,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+44,504,Men,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+46,504,Men,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+37,504,Men,Cold-Formed Metal Framing,2023-07-13,2023-07-06,2023-07-13,7.0
+39,504,Men,Flexible Ducts,2023-07-13,2023-07-06,2023-07-13,7.0
+40,504,Men,Gypsum Board,2023-07-13,2023-07-06,2023-07-13,7.0
+41,504,Men,Hydronic Piping,2023-07-19,2023-07-13,2023-07-19,6.0
+45,504,Men,Thermal Insulation,2023-07-25,2023-07-19,2023-07-25,6.0
+42,504,Men,Interior Painting,2023-08-23,2023-07-25,2023-08-23,29.0
+38,504,Men,Domestic Water Piping,2023-09-27,2023-08-23,2023-09-27,35.0
+43,504,Men,Raceway and Boxes for Electrical Systems,2023-09-27,2023-08-23,2023-09-27,35.0
+47,505,Women,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+55,505,Women,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+57,505,Women,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+48,505,Women,Cold-Formed Metal Framing,2023-07-13,2023-07-06,2023-07-13,7.0
+49,505,Women,Flexible Ducts,2023-07-13,2023-07-06,2023-07-13,7.0
+50,505,Women,Gypsum Board,2023-07-13,2023-07-06,2023-07-13,7.0
+52,505,Women,Hydronic Piping,2023-07-19,2023-07-13,2023-07-19,6.0
+56,505,Women,Thermal Insulation,2023-07-25,2023-07-19,2023-07-25,6.0
+54,505,Women,Raceway and Boxes for Electrical Systems,2023-08-10,2023-07-25,2023-08-10,16.0
+53,505,Women,Interior Painting,2023-08-23,2023-08-10,2023-08-23,13.0
+51,505,Women,Hollow Metal Doors and Frames,2023-09-27,2023-08-23,2023-09-27,35.0
+58,506,SERV ELEV VEST.,Cast-In-Place Concrete,2023-09-27,,2023-09-27,
+59,506,SERV ELEV VEST.,Cold-Formed Metal Framing,2023-09-27,,2023-09-27,
+60,506,SERV ELEV VEST.,Gypsum Board,2023-09-27,,2023-09-27,
+61,506,SERV ELEV VEST.,Hydronic Piping,2023-09-27,,2023-09-27,
+62,506,SERV ELEV VEST.,Raceway and Boxes for Electrical Systems,2023-09-27,,2023-09-27,
+63,506,SERV ELEV VEST.,Thermal Insulation,2023-09-27,,2023-09-27,
+64,506,SERV ELEV VEST.,Wet-Pipe Sprinkler Systems,2023-09-27,,2023-09-27,
+65,507,Electrical,Cast-In-Place Concrete,2023-09-27,,2023-09-27,
+66,507,Electrical,Domestic Water Piping,2023-09-27,,2023-09-27,
+67,507,Electrical,Facility Water Distribution Piping,2023-09-27,,2023-09-27,
+68,507,Electrical,Gypsum Board,2023-09-27,,2023-09-27,
+69,507,Electrical,Hollow Metal Doors and Frames,2023-09-27,,2023-09-27,
+71,507,Electrical,Led Interior Lighting,2023-09-27,,2023-09-27,
+72,507,Electrical,Raceway and Boxes for Electrical Systems,2023-09-27,,2023-09-27,
+73,507,Electrical,Wet-Pipe Sprinkler Systems,2023-09-27,,2023-09-27,
+70,507,Electrical,Interior Painting,2023-10-13,2023-09-27,2023-10-13,16.0
+74,581,NE,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+79,581,NE,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+78,581,NE,Raceway and Boxes for Electrical Systems,2023-07-11,2023-07-06,2023-07-11,5.0
+81,581,NE,Wet-Pipe Sprinkler Systems,2023-07-13,2023-07-11,2023-07-13,2.0
+75,581,NE,Cold-Formed Metal Framing,2023-07-25,2023-07-13,2023-07-25,12.0
+77,581,NE,Gypsum Board,2023-07-25,2023-07-13,2023-07-25,12.0
+76,581,NE,Glazing,2023-08-10,2023-07-25,2023-08-10,16.0
+80,581,NE,Thermal Insulation,2023-08-17,2023-08-10,2023-08-17,7.0
+82,582,SE,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+87,582,SE,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+86,582,SE,Raceway and Boxes for Electrical Systems,2023-07-11,2023-07-06,2023-07-11,5.0
+83,582,SE,Cold-Formed Metal Framing,2023-07-28,2023-07-11,2023-07-28,17.0
+84,582,SE,Glazing,2023-08-10,2023-07-28,2023-08-10,13.0
+89,582,SE,Wet-Pipe Sprinkler Systems,2023-08-10,2023-07-28,2023-08-10,13.0
+88,582,SE,Thermal Insulation,2023-08-17,2023-08-10,2023-08-17,7.0
+85,582,SE,Gypsum Board,2023-08-23,2023-08-17,2023-08-23,6.0
+90,583,S,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+91,583,S,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+94,583,S,Gypsum Board,2023-07-06,,2023-07-06,
+95,583,S,Hydronic Piping,2023-07-06,,2023-07-06,
+96,583,S,Raceway and Boxes for Electrical Systems,2023-07-06,,2023-07-06,
+97,583,S,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+99,583,S,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+93,583,S,Glazing,2023-08-10,2023-07-06,2023-08-10,35.0
+98,583,S,Thermal Insulation,2023-08-17,2023-08-10,2023-08-17,7.0
+92,583,S,Fire-Suppression Standpipes,2023-11-09,2023-08-17,2023-11-09,84.0
+100,584,SW,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+101,584,SW,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+104,584,SW,Hydronic Piping,2023-07-06,,2023-07-06,
+106,584,SW,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+105,584,SW,Raceway and Boxes for Electrical Systems,2023-07-19,2023-07-06,2023-07-19,13.0
+107,584,SW,Wet-Pipe Sprinkler Systems,2023-07-28,2023-07-19,2023-07-28,9.0
+102,584,SW,Glazing,2023-08-10,2023-07-28,2023-08-10,13.0
+103,584,SW,Gypsum Board,2023-08-25,2023-08-10,2023-08-25,15.0
+108,585,W,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+110,585,W,Fire-Suppression Standpipes,2023-07-06,,2023-07-06,
+113,585,W,Hydronic Piping,2023-07-06,,2023-07-06,
+115,585,W,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+114,585,W,Raceway and Boxes for Electrical Systems,2023-07-19,2023-07-06,2023-07-19,13.0
+109,585,W,Cold-Formed Metal Framing,2023-07-25,2023-07-19,2023-07-25,6.0
+112,585,W,Gypsum Board,2023-07-25,2023-07-19,2023-07-25,6.0
+111,585,W,Glazing,2023-08-17,2023-07-25,2023-08-17,23.0
+116,585,W,Thermal Insulation,2023-08-17,2023-07-25,2023-08-17,23.0
+117,585,W,Wet-Pipe Sprinkler Systems,2023-09-27,2023-08-17,2023-09-27,41.0
+118,586,NW,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+123,586,NW,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+122,586,NW,Raceway and Boxes for Electrical Systems,2023-07-19,2023-07-06,2023-07-19,13.0
+119,586,NW,Cold-Formed Metal Framing,2023-07-28,2023-07-19,2023-07-28,9.0
+120,586,NW,Glazing,2023-08-17,2023-07-28,2023-08-17,20.0
+121,586,NW,Gypsum Board,2023-08-17,2023-07-28,2023-08-17,20.0
+124,586,NW,Wet-Pipe Sprinkler Systems,2023-09-05,2023-08-17,2023-09-05,19.0
+125,587,N,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+127,587,N,Domestic Water Piping,2023-07-06,,2023-07-06,
+129,587,N,Gypsum Board,2023-07-06,,2023-07-06,
+130,587,N,Hydronic Piping,2023-07-06,,2023-07-06,
+132,587,N,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+134,587,N,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+131,587,N,Raceway and Boxes for Electrical Systems,2023-07-13,2023-07-06,2023-07-13,7.0
+126,587,N,Cold-Formed Metal Framing,2023-07-19,2023-07-13,2023-07-19,6.0
+128,587,N,Glazing,2023-08-17,2023-07-19,2023-08-17,29.0
+133,587,N,Thermal Insulation,2023-08-17,2023-07-19,2023-08-17,29.0
+135,6-ST1,STAIR 1,Cast-In-Place Concrete,2023-07-19,,2023-07-19,
+136,6-ST1,STAIR 1,Gypsum Board,2023-07-19,,2023-07-19,
+138,6-ST1,STAIR 1,Metal Pan Stairs,2023-07-19,,2023-07-19,
+139,6-ST1,STAIR 1,Sanitary Waste and Vent Piping,2023-07-19,,2023-07-19,
+137,6-ST1,STAIR 1,Hollow Metal Doors and Frames,2023-07-25,2023-07-19,2023-07-25,6.0
+140,6-ST2,STAIR 2,Cast-In-Place Concrete,2023-07-11,,2023-07-11,
+141,6-ST2,STAIR 2,Cold-Formed Metal Framing,2023-07-11,,2023-07-11,
+144,6-ST2,STAIR 2,Metal Pan Stairs,2023-07-11,,2023-07-11,
+145,6-ST2,STAIR 2,Sanitary Waste and Vent Piping,2023-07-11,,2023-07-11,
+146,6-ST2,STAIR 2,Steel Decking,2023-07-11,,2023-07-11,
+142,6-ST2,STAIR 2,Gypsum Board,2023-07-19,2023-07-11,2023-07-19,8.0
+143,6-ST2,STAIR 2,Hydronic Piping,2023-07-19,2023-07-11,2023-07-19,8.0
+147,600,FSAE Lobby,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+148,600,FSAE Lobby,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+149,600,FSAE Lobby,Gypsum Board,2023-07-13,2023-07-06,2023-07-13,7.0
+153,600,FSAE Lobby,Sanitary Waste and Vent Piping,2023-07-13,2023-07-06,2023-07-13,7.0
+151,600,FSAE Lobby,Metal Pan Stairs,2023-07-25,2023-07-13,2023-07-25,12.0
+152,600,FSAE Lobby,Raceway and Boxes for Electrical Systems,2023-08-17,2023-07-25,2023-08-17,23.0
+150,600,FSAE Lobby,Hollow Metal Doors and Frames,2023-10-20,2023-08-17,2023-10-20,64.0
+154,601,STAIR 1 VEST.,Cast-In-Place Concrete,2023-08-01,,2023-08-01,
+157,601,STAIR 1 VEST.,Gypsum Board,2023-08-01,,2023-08-01,
+159,601,STAIR 1 VEST.,Metal Pan Stairs,2023-08-01,,2023-08-01,
+161,601,STAIR 1 VEST.,Sanitary Waste and Vent Piping,2023-08-01,,2023-08-01,
+162,601,STAIR 1 VEST.,Wet-Pipe Sprinkler Systems,2023-08-01,,2023-08-01,
+155,601,STAIR 1 VEST.,Cold-Formed Metal Framing,2023-08-10,2023-08-01,2023-08-10,9.0
+160,601,STAIR 1 VEST.,Raceway and Boxes for Electrical Systems,2023-08-23,2023-08-10,2023-08-23,13.0
+156,601,STAIR 1 VEST.,Fire-Suppression Standpipes,2023-09-27,2023-08-23,2023-09-27,35.0
+158,601,STAIR 1 VEST.,Hollow Metal Doors and Frames,2023-09-27,2023-08-23,2023-09-27,35.0
+163,602,STAIR 2 VEST.,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+164,602,STAIR 2 VEST.,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+168,602,STAIR 2 VEST.,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+169,602,STAIR 2 VEST.,Steel Decking,2023-07-06,,2023-07-06,
+170,602,STAIR 2 VEST.,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+165,602,STAIR 2 VEST.,Duct Insulation,2023-07-19,2023-07-06,2023-07-19,13.0
+166,602,STAIR 2 VEST.,Gypsum Board,2023-07-19,2023-07-06,2023-07-19,13.0
+167,602,STAIR 2 VEST.,Hydronic Piping,2023-07-19,2023-07-06,2023-07-19,13.0
+171,603,JAN,Cast-In-Place Concrete,2023-07-11,,2023-07-11,
+172,603,JAN,Cold-Formed Metal Framing,2023-07-11,,2023-07-11,
+174,603,JAN,Hydronic Piping,2023-07-11,,2023-07-11,
+176,603,JAN,Sanitary Waste and Vent Piping,2023-07-11,,2023-07-11,
+177,603,JAN,Steel Decking,2023-07-11,,2023-07-11,
+173,603,JAN,Gypsum Board,2023-07-19,2023-07-11,2023-07-19,8.0
+175,603,JAN,Metal Pan Stairs,2023-07-19,2023-07-11,2023-07-19,8.0
+178,603,JAN,Thermal Insulation,2023-07-19,2023-07-11,2023-07-19,8.0
+179,603,JAN,Wet-Pipe Sprinkler Systems,2023-08-10,2023-07-19,2023-08-10,22.0
+180,604,Men,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+183,604,Men,Domestic Water Piping,2023-07-06,,2023-07-06,
+184,604,Men,Duct Insulation,2023-07-06,,2023-07-06,
+187,604,Men,Hydronic Piping,2023-07-06,,2023-07-06,
+189,604,Men,Raceway and Boxes for Electrical Systems,2023-07-06,,2023-07-06,
+191,604,Men,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+192,604,Men,Steel Decking,2023-07-06,,2023-07-06,
+194,604,Men,Wet-Pipe Sprinkler Systems,2023-07-13,2023-07-06,2023-07-13,7.0
+182,604,Men,Cold-Formed Metal Framing,2023-07-19,2023-07-13,2023-07-19,6.0
+185,604,Men,Gypsum Board,2023-07-19,2023-07-13,2023-07-19,6.0
+193,604,Men,Thermal Insulation,2023-07-19,2023-07-13,2023-07-19,6.0
+186,604,Men,Hollow Metal Doors and Frames,2023-07-25,2023-07-19,2023-07-25,6.0
+188,604,Men,Interior Painting,2023-09-27,2023-07-25,2023-09-27,64.0
+181,604,Men,Ceramic Tiling,2023-10-06,2023-09-27,2023-10-06,9.0
+190,604,Men,Resilient Base and Accessories,2023-10-13,2023-10-06,2023-10-13,7.0
+195,605,Women,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+197,605,Women,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+198,605,Women,Domestic Water Piping,2023-07-06,,2023-07-06,
+200,605,Women,Gypsum Board,2023-07-06,,2023-07-06,
+202,605,Women,Hydronic Piping,2023-07-06,,2023-07-06,
+203,605,Women,Interior Painting,2023-07-06,,2023-07-06,
+206,605,Women,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+207,605,Women,Steel Decking,2023-07-06,,2023-07-06,
+208,605,Women,Structural Steel Framing,2023-07-06,,2023-07-06,
+199,605,Women,Duct Insulation,2023-07-13,2023-07-06,2023-07-13,7.0
+209,605,Women,Thermal Insulation,2023-07-21,2023-07-13,2023-07-21,8.0
+201,605,Women,Hollow Metal Doors and Frames,2023-07-25,2023-07-21,2023-07-25,4.0
+204,605,Women,Raceway and Boxes for Electrical Systems,2023-08-17,2023-07-25,2023-08-17,23.0
+205,605,Women,Resilient Base and Accessories,2023-10-06,2023-08-17,2023-10-06,50.0
+196,605,Women,Ceramic Tiling,2023-10-13,2023-10-06,2023-10-13,7.0
+210,606,SERV ELEV VEST.,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+211,606,SERV ELEV VEST.,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+212,606,SERV ELEV VEST.,Domestic Water Piping,2023-07-06,,2023-07-06,
+213,606,SERV ELEV VEST.,Gypsum Board,2023-07-06,,2023-07-06,
+216,606,SERV ELEV VEST.,Raceway and Boxes for Electrical Systems,2023-07-06,,2023-07-06,
+218,606,SERV ELEV VEST.,Steel Decking,2023-07-06,,2023-07-06,
+219,606,SERV ELEV VEST.,Thermal Insulation,2023-07-06,,2023-07-06,
+214,606,SERV ELEV VEST.,Hydronic Piping,2023-07-11,2023-07-06,2023-07-11,5.0
+215,606,SERV ELEV VEST.,Non-Structural Metal Framing,2023-07-19,2023-07-11,2023-07-19,8.0
+217,606,SERV ELEV VEST.,Sanitary Waste and Vent Piping,2023-07-28,2023-07-19,2023-07-28,9.0
+220,606,SERV ELEV VEST.,Wet-Pipe Sprinkler Systems,2023-08-23,2023-07-28,2023-08-23,26.0
+221,607,Electrical,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+222,607,Electrical,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+223,607,Electrical,Gypsum Board,2023-07-06,,2023-07-06,
+225,607,Electrical,Interior Painting,2023-07-06,,2023-07-06,
+227,607,Electrical,Raceway and Boxes for Electrical Systems,2023-07-06,,2023-07-06,
+228,607,Electrical,Steel Decking,2023-07-06,,2023-07-06,
+229,607,Electrical,Structural Steel Framing,2023-07-06,,2023-07-06,
+230,607,Electrical,Wet-Pipe Sprinkler Systems,2023-07-11,2023-07-06,2023-07-11,5.0
+226,607,Electrical,Non-Structural Metal Framing,2023-07-13,2023-07-11,2023-07-13,2.0
+224,607,Electrical,Hydronic Piping,2023-07-19,2023-07-13,2023-07-19,6.0
+231,681,NE,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+232,681,NE,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+237,681,NE,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+238,681,NE,Steel Decking,2023-07-06,,2023-07-06,
+239,681,NE,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+234,681,NE,Gypsum Board,2023-07-13,2023-07-06,2023-07-13,7.0
+235,681,NE,Hollow Metal Doors and Frames,2023-08-09,2023-07-13,2023-08-09,27.0
+236,681,NE,Raceway and Boxes for Electrical Systems,2023-08-10,2023-08-09,2023-08-10,1.0
+233,681,NE,Glazing,2023-08-17,2023-08-10,2023-08-17,7.0
+240,682,SE,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+245,682,SE,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+246,682,SE,Steel Decking,2023-07-06,,2023-07-06,
+247,682,SE,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+243,682,SE,Gypsum Board,2023-07-19,2023-07-06,2023-07-19,13.0
+241,682,SE,Cold-Formed Metal Framing,2023-08-10,2023-07-19,2023-08-10,22.0
+244,682,SE,Raceway and Boxes for Electrical Systems,2023-08-10,2023-07-19,2023-08-10,22.0
+242,682,SE,Glazing,2023-08-17,2023-08-10,2023-08-17,7.0
+248,683,S,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+249,683,S,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+250,683,S,Domestic Water Piping,2023-07-06,,2023-07-06,
+253,683,S,Hydronic Piping,2023-07-06,,2023-07-06,
+254,683,S,Raceway and Boxes for Electrical Systems,2023-07-06,,2023-07-06,
+255,683,S,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+256,683,S,Steel Decking,2023-07-06,,2023-07-06,
+257,683,S,Structural Steel Framing,2023-07-06,,2023-07-06,
+259,683,S,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+252,683,S,Gypsum Board,2023-07-19,2023-07-06,2023-07-19,13.0
+251,683,S,Glazing,2023-08-23,2023-07-19,2023-08-23,35.0
+258,683,S,Thermal Insulation,2023-10-20,2023-08-23,2023-10-20,58.0
+260,684,SW,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+261,684,SW,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+264,684,SW,Hydronic Piping,2023-07-06,,2023-07-06,
+267,684,SW,Steel Decking,2023-07-06,,2023-07-06,
+268,684,SW,Structural Steel Framing,2023-07-06,,2023-07-06,
+270,684,SW,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+266,684,SW,Sanitary Waste and Vent Piping,2023-07-11,2023-07-06,2023-07-11,5.0
+263,684,SW,Gypsum Board,2023-07-19,2023-07-11,2023-07-19,8.0
+265,684,SW,Raceway and Boxes for Electrical Systems,2023-08-17,2023-07-19,2023-08-17,29.0
+262,684,SW,Glazing,2023-08-23,2023-08-17,2023-08-23,6.0
+269,684,SW,Thermal Insulation,2023-09-05,2023-08-23,2023-09-05,13.0
+271,685,W,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+277,685,W,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+278,685,W,Steel Decking,2023-07-06,,2023-07-06,
+280,685,W,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+273,685,W,Fire-Suppression Standpipes,2023-07-13,2023-07-06,2023-07-13,7.0
+275,685,W,Gypsum Board,2023-07-19,2023-07-13,2023-07-19,6.0
+276,685,W,Raceway and Boxes for Electrical Systems,2023-08-10,2023-07-19,2023-08-10,22.0
+272,685,W,Cold-Formed Metal Framing,2023-08-17,2023-08-10,2023-08-17,7.0
+274,685,W,Glazing,2023-08-23,2023-08-17,2023-08-23,6.0
+279,685,W,Thermal Insulation,2023-09-05,2023-08-23,2023-09-05,13.0
+281,686,NW,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+287,686,NW,Steel Decking,2023-07-06,,2023-07-06,
+288,686,NW,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+284,686,NW,Gypsum Board,2023-07-19,2023-07-06,2023-07-19,13.0
+286,686,NW,Sanitary Waste and Vent Piping,2023-07-19,2023-07-06,2023-07-19,13.0
+282,686,NW,Cold-Formed Metal Framing,2023-07-25,2023-07-19,2023-07-25,6.0
+285,686,NW,Raceway and Boxes for Electrical Systems,2023-08-10,2023-07-25,2023-08-10,16.0
+283,686,NW,Glazing,2023-08-17,2023-08-10,2023-08-17,7.0
+289,687,N,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+290,687,N,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+291,687,N,Domestic Water Piping,2023-07-06,,2023-07-06,
+293,687,N,Gypsum Board,2023-07-06,,2023-07-06,
+295,687,N,Interior Painting,2023-07-06,,2023-07-06,
+298,687,N,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+299,687,N,Steel Decking,2023-07-06,,2023-07-06,
+300,687,N,Structural Steel Framing,2023-07-06,,2023-07-06,
+302,687,N,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+294,687,N,Hydronic Piping,2023-07-13,2023-07-06,2023-07-13,7.0
+296,687,N,Metal Pan Stairs,2023-07-13,2023-07-06,2023-07-13,7.0
+301,687,N,Thermal Insulation,2023-07-13,2023-07-06,2023-07-13,7.0
+297,687,N,Raceway and Boxes for Electrical Systems,2023-08-10,2023-07-13,2023-08-10,28.0
+292,687,N,Glazing,2023-08-17,2023-08-10,2023-08-17,7.0
+303,7-ST1,STAIR 1,Cast-In-Place Concrete,2023-07-13,,2023-07-13,
+304,7-ST1,STAIR 1,Cold-Formed Metal Framing,2023-07-13,,2023-07-13,
+306,7-ST1,STAIR 1,Gypsum Board,2023-07-13,,2023-07-13,
+307,7-ST1,STAIR 1,Metal Pan Stairs,2023-07-13,,2023-07-13,
+308,7-ST1,STAIR 1,Sanitary Waste and Vent Piping,2023-07-25,2023-07-13,2023-07-25,12.0
+310,7-ST1,STAIR 1,Wet-Pipe Sprinkler Systems,2023-07-25,2023-07-13,2023-07-25,12.0
+305,7-ST1,STAIR 1,Facility Storm Drainage Piping,2023-09-27,2023-07-25,2023-09-27,64.0
+309,7-ST1,STAIR 1,Thermal Insulation,2023-09-27,2023-07-25,2023-09-27,64.0
+311,7-ST2,STAIR 2,Cast-In-Place Concrete,2023-07-11,,2023-07-11,
+312,7-ST2,STAIR 2,Cold-Formed Metal Framing,2023-07-11,,2023-07-11,
+313,7-ST2,STAIR 2,Gypsum Board,2023-07-11,,2023-07-11,
+314,7-ST2,STAIR 2,Metal Pan Stairs,2023-07-11,,2023-07-11,
+315,7-ST2,STAIR 2,Sanitary Waste and Vent Piping,2023-07-11,,2023-07-11,
+316,700,FSAE Lobby,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+317,700,FSAE Lobby,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+318,700,FSAE Lobby,Gypsum Board,2023-07-06,,2023-07-06,
+320,700,FSAE Lobby,Raceway and Boxes for Electrical Systems,2023-07-06,,2023-07-06,
+321,700,FSAE Lobby,Thermal Insulation,2023-10-13,2023-07-06,2023-10-13,99.0
+322,700,FSAE Lobby,Wet-Pipe Sprinkler Systems,2023-10-13,2023-07-06,2023-10-13,99.0
+319,700,FSAE Lobby,Hollow Metal Doors and Frames,2023-10-25,2023-10-13,2023-10-25,12.0
+323,701,STAIR 1 VEST.,Cast-In-Place Concrete,2023-08-01,,2023-08-01,
+329,701,STAIR 1 VEST.,Sanitary Waste and Vent Piping,2023-08-01,,2023-08-01,
+324,701,STAIR 1 VEST.,Cold-Formed Metal Framing,2023-08-23,2023-08-01,2023-08-23,22.0
+326,701,STAIR 1 VEST.,Gypsum Board,2023-08-23,2023-08-01,2023-08-23,22.0
+328,701,STAIR 1 VEST.,Raceway and Boxes for Electrical Systems,2023-08-23,2023-08-01,2023-08-23,22.0
+325,701,STAIR 1 VEST.,Fire-Suppression Standpipes,2023-09-27,2023-08-23,2023-09-27,35.0
+327,701,STAIR 1 VEST.,Hollow Metal Doors and Frames,2023-11-09,2023-09-27,2023-11-09,43.0
+330,702,STAIR 2 VEST.,Cast-In-Place Concrete,2023-07-11,,2023-07-11,
+331,702,STAIR 2 VEST.,Domestic Water Piping,2023-07-11,,2023-07-11,
+332,702,STAIR 2 VEST.,Sanitary Waste and Vent Piping,2023-07-19,2023-07-11,2023-07-19,8.0
+333,703,JAN,Cast-In-Place Concrete,2023-07-25,,2023-07-25,
+339,703,JAN,Raceway and Boxes for Electrical Systems,2023-07-25,,2023-07-25,
+340,703,JAN,Sanitary Waste and Vent Piping,2023-07-25,,2023-07-25,
+338,703,JAN,Hydronic Piping,2023-08-23,2023-07-25,2023-08-23,29.0
+334,703,JAN,Cold-Formed Metal Framing,2023-09-27,2023-08-23,2023-09-27,35.0
+336,703,JAN,Gypsum Board,2023-09-27,2023-08-23,2023-09-27,35.0
+335,703,JAN,Domestic Water Piping,2023-11-03,2023-09-27,2023-11-03,37.0
+337,703,JAN,Hollow Metal Doors and Frames,2023-11-14,2023-11-03,2023-11-14,11.0
+341,704,Men,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+342,704,Men,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+343,704,Men,Gypsum Board,2023-07-06,,2023-07-06,
+344,704,Men,Hydronic Piping,2023-07-06,,2023-07-06,
+347,704,Men,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+349,704,Men,Wet-Pipe Sprinkler Systems,2023-07-28,2023-07-06,2023-07-28,22.0
+348,704,Men,Thermal Insulation,2023-08-09,2023-07-28,2023-08-09,12.0
+345,704,Men,Interior Painting,2023-10-06,2023-08-09,2023-10-06,58.0
+346,704,Men,Raceway and Boxes for Electrical Systems,2023-10-06,2023-08-09,2023-10-06,58.0
+350,705,Women,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+354,705,Women,Facility Water Distribution Piping,2023-07-06,,2023-07-06,
+355,705,Women,Gypsum Board,2023-07-06,,2023-07-06,
+359,705,Women,Raceway and Boxes for Electrical Systems,2023-07-06,,2023-07-06,
+360,705,Women,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+362,705,Women,Wet-Pipe Sprinkler Systems,2023-07-11,2023-07-06,2023-07-11,5.0
+357,705,Women,Hydronic Piping,2023-07-19,2023-07-11,2023-07-19,8.0
+352,705,Women,Cold-Formed Metal Framing,2023-08-09,2023-07-19,2023-08-09,21.0
+361,705,Women,Thermal Insulation,2023-08-09,2023-07-19,2023-08-09,21.0
+358,705,Women,Interior Painting,2023-10-06,2023-08-09,2023-10-06,58.0
+351,705,Women,Ceramic Tiling,2023-10-25,2023-10-06,2023-10-25,19.0
+356,705,Women,Hollow Metal Doors and Frames,2023-10-25,2023-10-06,2023-10-25,19.0
+353,705,Women,Domestic Water Piping,2023-11-03,2023-10-25,2023-11-03,9.0
+363,706,SERV ELEV VEST.,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+364,706,SERV ELEV VEST.,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+365,706,SERV ELEV VEST.,Domestic Water Piping,2023-07-06,,2023-07-06,
+366,706,SERV ELEV VEST.,Gypsum Board,2023-07-06,,2023-07-06,
+369,706,SERV ELEV VEST.,Raceway and Boxes for Electrical Systems,2023-07-06,,2023-07-06,
+370,706,SERV ELEV VEST.,Thermal Insulation,2023-07-06,,2023-07-06,
+368,706,SERV ELEV VEST.,Hydronic Piping,2023-07-19,2023-07-06,2023-07-19,13.0
+371,706,SERV ELEV VEST.,Wet-Pipe Sprinkler Systems,2023-07-19,2023-07-06,2023-07-19,13.0
+367,706,SERV ELEV VEST.,Hollow Metal Doors and Frames,2023-10-25,2023-07-19,2023-10-25,98.0
+372,707,Electrical,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+374,707,Electrical,Gypsum Board,2023-07-06,,2023-07-06,
+380,707,Electrical,Raceway and Boxes for Electrical Systems,2023-07-06,,2023-07-06,
+379,707,Electrical,Low-Voltage Electrical Power Conductors and Cables,2023-08-30,2023-07-06,2023-08-30,55.0
+373,707,Electrical,Domestic Water Piping,2023-09-27,2023-08-30,2023-09-27,28.0
+375,707,Electrical,HVAC Piping Insulation,2023-09-27,2023-08-30,2023-09-27,28.0
+377,707,Electrical,Hydronic Piping,2023-09-27,2023-08-30,2023-09-27,28.0
+378,707,Electrical,Led Interior Lighting,2023-10-13,2023-09-27,2023-10-13,16.0
+376,707,Electrical,Hollow Metal Doors and Frames,2023-11-14,2023-10-13,2023-11-14,32.0
+381,708,IT/LOW VOLT.,Cast-In-Place Concrete,2023-09-27,,2023-09-27,
+382,708,IT/LOW VOLT.,Fire-Suppression Standpipes,2023-09-27,,2023-09-27,
+383,708,IT/LOW VOLT.,Gypsum Board,2023-09-27,,2023-09-27,
+384,708,IT/LOW VOLT.,Hollow Metal Doors and Frames,2023-10-13,2023-09-27,2023-10-13,16.0
+386,781,NE,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+388,781,NE,Domestic Water Piping,2023-07-06,,2023-07-06,
+389,781,NE,Facility Storm Drainage Piping,2023-07-06,,2023-07-06,
+392,781,NE,Raceway and Boxes for Electrical Systems,2023-07-06,,2023-07-06,
+394,781,NE,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+387,781,NE,Cold-Formed Metal Framing,2023-07-11,2023-07-06,2023-07-11,5.0
+391,781,NE,Gypsum Board,2023-07-11,2023-07-06,2023-07-11,5.0
+393,781,NE,Sanitary Waste and Vent Piping,2023-07-21,2023-07-11,2023-07-21,10.0
+390,781,NE,Glazing,2023-08-30,2023-07-21,2023-08-30,40.0
+385,781,NE,Acoustical Tile Ceilings,2023-10-13,2023-08-30,2023-10-13,44.0
+395,782,SE,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+400,782,SE,Raceway and Boxes for Electrical Systems,2023-07-06,,2023-07-06,
+403,782,SE,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+401,782,SE,Sanitary Waste and Vent Piping,2023-07-11,2023-07-06,2023-07-11,5.0
+396,782,SE,Cold-Formed Metal Framing,2023-08-23,2023-07-11,2023-08-23,43.0
+398,782,SE,Glazing,2023-08-25,2023-08-23,2023-08-25,2.0
+399,782,SE,Gypsum Board,2023-08-30,2023-08-25,2023-08-30,5.0
+397,782,SE,Domestic Water Piping,2023-09-27,2023-08-30,2023-09-27,28.0
+402,782,SE,Thermal Insulation,2023-09-27,2023-08-30,2023-09-27,28.0
+404,783,S,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+405,783,S,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+406,783,S,Domestic Water Piping,2023-07-06,,2023-07-06,
+408,783,S,Gypsum Board,2023-07-06,,2023-07-06,
+410,783,S,Hydronic Piping,2023-07-06,,2023-07-06,
+411,783,S,Raceway and Boxes for Electrical Systems,2023-07-06,,2023-07-06,
+415,783,S,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+412,783,S,Sanitary Waste and Vent Piping,2023-07-11,2023-07-06,2023-07-11,5.0
+407,783,S,Glazing,2023-08-25,2023-07-11,2023-08-25,45.0
+409,783,S,Hollow Metal Doors and Frames,2023-10-13,2023-08-25,2023-10-13,49.0
+413,783,S,Steel Decking,2023-11-09,2023-10-13,2023-11-09,27.0
+414,783,S,Structural Steel Framing,2023-11-09,2023-10-13,2023-11-09,27.0
+416,784,SW,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+417,784,SW,Cold-Formed Metal Framing,2023-07-06,,2023-07-06,
+418,784,SW,Domestic Water Piping,2023-07-06,,2023-07-06,
+422,784,SW,Raceway and Boxes for Electrical Systems,2023-07-06,,2023-07-06,
+424,784,SW,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+421,784,SW,Hydronic Piping,2023-07-19,2023-07-06,2023-07-19,13.0
+423,784,SW,Sanitary Waste and Vent Piping,2023-07-21,2023-07-19,2023-07-21,2.0
+419,784,SW,Glazing,2023-08-30,2023-07-21,2023-08-30,40.0
+420,784,SW,Gypsum Board,2023-09-27,2023-08-30,2023-09-27,28.0
+425,785,W,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+427,785,W,Domestic Water Piping,2023-07-06,,2023-07-06,
+435,785,W,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+433,785,W,Raceway and Boxes for Electrical Systems,2023-07-11,2023-07-06,2023-07-11,5.0
+434,785,W,Sanitary Waste and Vent Piping,2023-07-11,2023-07-06,2023-07-11,5.0
+428,785,W,Fire-Suppression Standpipes,2023-07-13,2023-07-11,2023-07-13,2.0
+431,785,W,Hydronic Piping,2023-07-13,2023-07-11,2023-07-13,2.0
+426,785,W,Cold-Formed Metal Framing,2023-08-09,2023-07-13,2023-08-09,27.0
+430,785,W,Gypsum Board,2023-08-09,2023-07-13,2023-08-09,27.0
+429,785,W,Glazing,2023-08-30,2023-08-09,2023-08-30,21.0
+432,785,W,Plumbing Piping Insulation,2023-11-03,2023-08-30,2023-11-03,65.0
+436,786,NW,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+438,786,NW,Domestic Water Piping,2023-07-06,,2023-07-06,
+443,786,NW,Raceway and Boxes for Electrical Systems,2023-07-06,,2023-07-06,
+444,786,NW,Sanitary Waste and Vent Piping,2023-07-06,,2023-07-06,
+445,786,NW,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+437,786,NW,Cold-Formed Metal Framing,2023-08-09,2023-07-06,2023-08-09,34.0
+440,786,NW,Glazing,2023-08-30,2023-08-09,2023-08-30,21.0
+441,786,NW,Gypsum Board,2023-09-27,2023-08-30,2023-09-27,28.0
+439,786,NW,Facility Storm Drainage Piping,2023-10-25,2023-09-27,2023-10-25,28.0
+442,786,NW,Plumbing Piping Insulation,2023-11-09,2023-10-25,2023-11-09,15.0
+446,787,N,Cast-In-Place Concrete,2023-07-06,,2023-07-06,
+448,787,N,Domestic Water Piping,2023-07-06,,2023-07-06,
+449,787,N,Facility Storm Drainage Piping,2023-07-06,,2023-07-06,
+453,787,N,Raceway and Boxes for Electrical Systems,2023-07-06,,2023-07-06,
+456,787,N,Wet-Pipe Sprinkler Systems,2023-07-06,,2023-07-06,
+454,787,N,Sanitary Waste and Vent Piping,2023-07-11,2023-07-06,2023-07-11,5.0
+451,787,N,Gypsum Board,2023-07-19,2023-07-11,2023-07-19,8.0
+447,787,N,Cold-Formed Metal Framing,2023-07-28,2023-07-19,2023-07-28,9.0
+450,787,N,Glazing,2023-08-25,2023-07-28,2023-08-25,28.0
+455,787,N,Thermal Insulation,2023-09-27,2023-08-25,2023-09-27,33.0
+452,787,N,Hollow Metal Doors and Frames,2023-10-25,2023-09-27,2023-10-25,28.0
+457,EL - 4,SERV ELEV,Cast-In-Place Concrete,2023-08-17,,2023-08-17,
+458,EL - 4,SERV ELEV,Gypsum Board,2023-08-17,,2023-08-17,
+459,EL - 4,SERV ELEV,Raceway and Boxes for Electrical Systems,2023-08-17,,2023-08-17,

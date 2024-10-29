@@ -1,0 +1,55 @@
+Location Number,Location Name,Location Type,Area,Area Unit
+500,FSAE Lobby,Lobby/Corridor,259,SF
+501,STAIR 1 VEST.,Room,81,SF
+502,STAIR 2 VEST.,Room,65,SF
+503,JAN,Room,41,SF
+504,Men,Bathroom,195,SF
+505,Women,Bathroom,281,SF
+506,SERV ELEV VEST.,Room,89,SF
+507,Electrical,Room,171,SF
+508,IT/LOW VOLT.,Room,44,SF
+581,NE,Open Area,3359,SF
+582,SE,Open Area,3070,SF
+583,S,Open Area,3863,SF
+584,SW,Open Area,3112,SF
+585,W,Open Area,4526,SF
+586,NW,Open Area,4096,SF
+587,N,Open Area,2898,SF
+600,FSAE Lobby,Lobby/Corridor,259,SF
+601,STAIR 1 VEST.,Room,81,SF
+602,STAIR 2 VEST.,Room,65,SF
+603,JAN,Room,41,SF
+604,Men,Bathroom,195,SF
+605,Women,Bathroom,281,SF
+606,SERV ELEV VEST.,Room,89,SF
+607,Electrical,Room,171,SF
+608,IT/LOW VOLT.,Room,44,SF
+681,NE,Open Area,2535,SF
+682,SE,Open Area,3070,SF
+683,S,Open Area,3863,SF
+684,SW,Open Area,2480,SF
+685,W,Open Area,4376,SF
+686,NW,Open Area,4096,SF
+687,N,Open Area,2898,SF
+700,FSAE Lobby,Lobby/Corridor,259,SF
+701,STAIR 1 VEST.,Room,81,SF
+702,STAIR 2 VEST.,Room,65,SF
+703,JAN,Room,41,SF
+704,Men,Bathroom,195,SF
+705,Women,Bathroom,281,SF
+706,SERV ELEV VEST.,Room,89,SF
+707,Electrical,Room,171,SF
+708,IT/LOW VOLT.,Room,44,SF
+781,NE,Open Area,2535,SF
+782,SE,Open Area,3070,SF
+783,S,Open Area,3863,SF
+784,SW,Open Area,2480,SF
+785,W,Open Area,4445,SF
+786,NW,Open Area,4096,SF
+787,N,Open Area,2898,SF
+5-ST1,STAIR 1,Staircase,372,SF
+5-ST2,STAIR 2,Staircase,236,SF
+6-ST1,STAIR 1,Staircase,372,SF
+6-ST2,STAIR 2,Staircase,236,SF
+7-ST1,STAIR 1,Staircase,372,SF
+7-ST2,STAIR 2,Staircase,236,SF
