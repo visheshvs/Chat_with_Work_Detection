@@ -4,7 +4,8 @@ import sqlite3
 
 def convert_dataframe_to_sqlite(csv_file_path, sqlite_db_path, table_name):
     """
-    Convert a single CSV file to a SQLite table.
+    Convert a single CSV file to a SQLite table. If table exists, update with new records
+    without creating duplicates.
     
     Parameters:
         csv_file_path (str): Path to the CSV file.
@@ -24,19 +25,40 @@ def convert_dataframe_to_sqlite(csv_file_path, sqlite_db_path, table_name):
         conn = sqlite3.connect(sqlite_db_path)
         cursor = conn.cursor()
         print(f"Connected to SQLite database at: {sqlite_db_path}")
-    except sqlite3.Error as e:
-        print(f"Error connecting to SQLite database: {e}")
-        return
-
-    try:
+        
         # Replace spaces with underscores in table name and make it lowercase
         formatted_table_name = table_name.replace(' ', '_').lower()
         
-        # Insert DataFrame into SQLite table
-        df.to_sql(formatted_table_name, conn, if_exists='replace', index=False)
-        print(f"Inserted {len(df)} records into table '{formatted_table_name}' in SQLite database.")
+        # Check if table exists
+        cursor.execute(f"SELECT name FROM sqlite_master WHERE type='table' AND name=?", (formatted_table_name,))
+        table_exists = cursor.fetchone() is not None
+        
+        if not table_exists:
+            # If table doesn't exist, create it
+            df.to_sql(formatted_table_name, conn, if_exists='replace', index=False)
+            print(f"Created new table '{formatted_table_name}' with {len(df)} records.")
+        else:
+            # Get existing data
+            existing_df = pd.read_sql(f"SELECT * FROM {formatted_table_name}", conn)
+            
+            # Convert column types to match between dataframes
+            for col in df.columns:
+                if col in existing_df.columns:
+                    df[col] = df[col].astype(existing_df[col].dtype)
+            
+            # Identify new records by comparing all columns
+            merged_df = pd.merge(df, existing_df, how='left', indicator=True)
+            new_records = merged_df[merged_df['_merge'] == 'left_only'].drop('_merge', axis=1)
+            
+            if len(new_records) > 0:
+                # Append only new records
+                new_records.to_sql(formatted_table_name, conn, if_exists='append', index=False)
+                print(f"Added {len(new_records)} new records to existing table '{formatted_table_name}'.")
+            else:
+                print(f"No new records to add to table '{formatted_table_name}'.")
+            
     except Exception as e:
-        print(f"Error inserting data into table '{formatted_table_name}': {e}")
+        print(f"Error processing table '{formatted_table_name}': {e}")
     finally:
         conn.close()
         print("SQLite connection closed.\n")

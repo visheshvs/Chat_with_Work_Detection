@@ -2,7 +2,9 @@
 
 ## Description
 
-The **Produciton Control - Work Detection Query Assistant** is a tool designed to facilitate the conversion of CSV files into a SQLite database and enable users to interact with the data using natural language queries. It processes CSV exports from various sources, stores the data into a SQLite database, and allows users to generate and execute SQL queries through intuitive language prompts powered by OpenAI's API.
+The **Production Control - Work Detection Query Assistant** is a tool designed to facilitate the conversion of CSV files into a SQLite database and enable users to interact with the data using natural language queries. This project is an extension of the research conducted by Vishesh Vikram Singh during his Ph.D. More about the Ph.D. research can be found [here](https://visheshvsingh.notion.site/Ph-D-Dissertation-12cb1218451c8003bae4d43adfb9105b). 
+
+The repository for the code generating the data can be found at [XYZ.COM](http://xyz.com).
 
 ## Prerequisites
 
