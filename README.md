@@ -25,13 +25,14 @@ The project relies on the following Python packages:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/visheshvs/Chat_with_Work_Detection.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd your-repo
+   cd Chat_with_Work_Detection
+
    ```
 
 3. **Set Up Environment Variables**
@@ -42,18 +43,7 @@ The project relies on the following Python packages:
    OPENAI_API_KEY=your_openai_api_key_here
    ```
 
-4. **Install Dependencies**
-
-   If you have a `requirements.txt` file, you can install all dependencies at once:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Project Structure
-
-The project will create the following directory structure:
-
 
 The project will create the following directory structure:
 
@@ -61,9 +51,6 @@ The project will create the following directory structure:
 
 ├── CSV_Data/ # Place your CSV files here
 ├── Database/ # Contains generated SQLite databases
-└── CSV Exports/ # Contains processed CSV files
-├── export1/ # Processed exports from source1
-├── export2/ # Processed exports from source2
 └── ...
 ```
 
@@ -86,24 +73,6 @@ The script will:
 - Store the SQLite database in the `Database` directory.
 - Ensure that table names are formatted by replacing spaces with underscores and converting them to lowercase.
 
-#### Example
-
-```bash
-python csv_to_sql.py
-```
-
-**Output:**
-Processing sales_data.csv...
-Successfully read CSV file: CSV_Data/sales_data.csv
-Connected to SQLite database at: Database/csv_data_database.db
-Inserted 150 records into table 'sales_data' in SQLite database.
-SQLite connection closed.
-Processing inventory.csv...
-Successfully read CSV file: CSV_Data/inventory.csv
-Connected to SQLite database at: Database/csv_data_database.db
-Inserted 75 records into table 'inventory' in SQLite database.
-SQLite connection closed.
-
 ### 2. Querying the Database with Natural Language
 
 Run the query assistant:
@@ -123,51 +92,48 @@ The assistant will:
 
 #### Example Interaction:
 ```
-Welcome to the CSV Database Query Assistant!
+Welcome to the Work Detection Query Assistant!
 Available databases:
 csv_data_database.db
-export1_database.db
 Select a database (enter the number): 1
 Using database: csv_data_database.db
 Database Schema and Sample Data:
-Table: sales_data
+Table: area_qto
 Columns:
-order_id (INTEGER)
-product_name (TEXT)
-quantity (INTEGER)
-price (REAL)
-order_date (TEXT)
+Location Number (TEXT)
+Location Name (TEXT)
+Location Type (TEXT)
+Area (INTEGER)
+Area Unit (TEXT)
 Sample Data:
-{'order_id': 1, 'product_name': 'Widget A', 'quantity': 10, 'price': 9.99, 'order_date': '2023-01-15'}
-{'order_id': 2, 'product_name': 'Widget B', 'quantity': 5, 'price': 19.99, 'order_date': '2023-01-17'}
-{'order_id': 3, 'product_name': 'Widget C', 'quantity': 7, 'price': 14.99, 'order_date': '2023-01-20'}
+{'Location Number': '500', 'Location Name': 'FSAE Lobby', 'Location Type': 'Lobby/Corridor', 'Area': 259, 'Area Unit': 'SF'}
+{'Location Number': '501', 'Location Name': 'STAIR 1 VEST.', 'Location Type': 'Room', 'Area': 81, 'Area Unit': 'SF'}
+{'Location Number': '502', 'Location Name': 'STAIR 2 VEST.', 'Location Type': 'Room', 'Area': 65, 'Area Unit': 'SF'}
 Type 'exit' to quit.
-Enter your question: What is the total revenue from all sales?
+Enter your question: What are the activities, their location, and their trades with longest durations (top 5)?
 Generated SQL Query:
-SELECT SUM(quantity price) AS total_revenue FROM "sales_data";
+SELECT "Work Detected", "Location Name", "Trade", "Duration"
+FROM "merged_ml_data"
+ORDER BY "Duration" DESC
+LIMIT 5;
+Executing SQL Query: SELECT "Work Detected", "Location Name", "Trade", "Duration"
+FROM "merged_ml_data"
+ORDER BY "Duration" DESC
+LIMIT 5;
 Query Results:
-total_revenue
--------------
-249.80
+Work Detected | Location Name | Trade | Duration
+----+-----+-----+----
+Thermal Insulation | FSAE Lobby | Drywall - Fireproofing | 99.0
+Wet-Pipe Sprinkler Systems | FSAE Lobby | Fire Protection | 99.0
+Hollow Metal Doors and Frames | SERV ELEV VEST. | Doors/Frames/Hardware | 98.0
+Hollow Metal Doors and Frames | SERV ELEV VEST. | Door - waterproofing | 98.0
+Raceway and Boxes for Electrical Systems | STAIR 2 | Electrical | 87.0
 ```
 
 ### 3. Exiting the Assistant
 
 To exit the query assistant, type `exit` or `quit` when prompted for a question.
 
-## Sample Files
-
-- **CSV Samples:** You can use any CSV files relevant to your data. Ensure that the CSVs are properly formatted with headers.
-  
-  Example CSV Structure:
-
-  **sales_data.csv**
-  
-  | order_id | product_name | quantity | price | order_date |
-  |----------|--------------|----------|-------|------------|
-  | 1        | Widget A     | 10       | 9.99  | 2023-01-15 |
-  | 2        | Widget B     | 5        | 19.99 | 2023-01-17 |
-  | 3        | Widget C     | 7        | 14.99 | 2023-01-20 |
 
 ## Credits
 
